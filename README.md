@@ -1,0 +1,1 @@
+This file is for capgemini assignment1.It contains corejava8,SQL,Jdbc labbook solutions.
